@@ -22,7 +22,7 @@ This project highlights practical skills in data cleaning, feature engineering, 
 
 ---
 
-## 🧠 Technical Overview
+### Technical Overview
 
 ### NLP Pipeline
 
